@@ -125,3 +125,24 @@ font-family: 'Poppins', sans-serif;
 span{
     color: #E55473;
 }
+
+/* Instagram section */
+.instagram{
+    margin: 100px 150px ;
+}
+
+.instagram-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    width: 600px;
+    margin-left: 230px;
+}
+.image-container{
+    text-align: center;
+}
+.image-container img{
+    width: 225px;
+    margin-right: 24px;
+    
+}
