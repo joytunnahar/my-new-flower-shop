@@ -146,3 +146,35 @@ span{
     margin-right: 24px;
     
 }
+
+/* latest deals section */
+.latest-deals-container{
+ background-image: url(../images/Rectangle\ 9.png);
+ background-size: contain;
+background-repeat: no-repeat;
+ height: 449px;
+ margin: 100px 150px ;
+}
+
+.latest-deals{
+   padding-top: 50px;
+}
+.latest-deals-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    margin-top: 0;
+    
+}
+.input{
+    text-align: center;
+   
+}
+#email{
+    border-radius: 8px;
+    background: #FFF;
+    padding: 20px 60px;
+    border: 0;
+}
+
+    
